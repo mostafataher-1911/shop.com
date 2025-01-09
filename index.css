@@ -1,0 +1,150 @@
+input[type="search"]{
+ width: 280px;
+}
+.offer{
+    background-color: black;
+}
+.hh{
+    
+    transition-duration: 0.3s;
+    transition-delay: 0.3s;
+}
+.hh:hover{
+ 
+    margin-bottom: 46px;
+    border: solid 5px #639189;
+
+}
+
+.io{
+    position: relative;
+    left: 303px;
+    bottom: 23px;
+
+}
+.ii{
+    position: relative;
+    left: 303px;
+    bottom: 23px;
+
+}
+.find-clothes .detiles button{
+    background-color: black;
+}
+.find-clothes{
+    background-color: #F2F0F1;
+}
+.offer{
+    height: 50px;
+}
+.offer span{
+    position: relative;
+    left: 340px;
+    bottom: 38px;
+}
+.new  img{
+    border-radius: 25px;
+    
+}
+.brandes-name{
+    background-color: black;
+}
+.top img{
+    border-radius: 25px;
+}
+.new  span{
+    background-color: rgb(255, 196, 176);
+     color:#FF3333;
+     font-size: 12px;
+     padding: 5px;
+}
+.top span{
+    background-color: rgb(255, 196, 176);
+    color: #FF3333;
+    font-size: 12px;
+    padding: 5px;}
+    .st{
+        /* margin:0 300px 0px 300px; */
+        border-radius: 30px;
+    }
+    .styles img{
+        border-radius: 30px;
+    }
+    /* .styles .pp{
+        height: 180px;
+    }
+    .styles .mm{
+        height: 180px;
+    }
+   
+    .styles .container{
+       overflow: hidden;
+       position: relative;
+    }
+    .styles .container .row {
+        position: absolute;
+        top: 0;
+        left: 0;
+    } */
+     .im1{
+        position: relative;
+        left: 5px;
+     }
+     .styles img {
+        border-radius: 30px;
+     }
+    .styles p{
+        position: relative;
+        top: 65px;
+        left: 40px;
+    
+    }
+    .comments{
+        margin:0 200px 0px 200px;
+    }
+    .arr{
+        position: relative;
+        bottom: 54px;
+        left: 800px;
+    }
+    .bb{
+        border-radius: 25px;
+    }
+    .stay{
+        
+        position: relative;
+        top: 100px;
+    }
+    .stay .row{
+        background-color: black;
+    }
+    .stay span{
+        position: relative;
+        top: 32px;
+        left: 58px;
+    
+    }
+    .footer{
+        padding:150px 50px 50px 50px;
+    }
+    
+ 
+    @media (max-width: 767.98px) { 
+            .vv{
+             visibility: hidden;
+            }
+            .ll{
+                display: none;
+            }
+       }
+      
+     
+      @media (max-width: 991.98px) { 
+      .vv{
+        visibility: hidden;
+      }
+      .ll{
+        display: none;
+    }
+       }
+      
