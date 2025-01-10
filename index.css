@@ -128,7 +128,42 @@ input[type="search"]{
         padding:150px 50px 50px 50px;
     }
     
- 
+    @media (max-width: 575.98px) { 
+        .io{
+            position: relative;
+            left: 182px;
+            bottom: 23px;
+        
+        }
+        .ii{
+            position: relative;
+            left: 186px;
+            bottom: 23px;
+        
+        }
+        .im1{
+            margin-left: 0px;
+            left: 0;
+            width: 340px;
+        }
+        .arr{
+            display: none;
+        }
+        .ou{
+            display: flex;
+            justify-content: center;
+        }
+        .ee{
+            display: none;
+        }
+        .styles p{
+            position: relative;
+            top: 16px;
+            left: 0px;
+        
+        }
+      
+     }
     @media (max-width: 767.98px) { 
             .vv{
              visibility: hidden;
